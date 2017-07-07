@@ -1,10 +1,16 @@
 ﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+# 
+This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+
+
 *.suo
-/packages
+
 **/bin
+
 **/obj
+
 *.user
+
 **/.vs
